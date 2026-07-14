@@ -60,3 +60,6 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# Keep App Review sample IPA tracked
+!Samples/IPAs/*.ipa
