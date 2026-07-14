@@ -1,0 +1,284 @@
+# Path: /Users/rahulchaudhari/Documents/Personal/Projects/LinkmapAnalyser/.build/screenshot-dd/Build/Products/Debug/BinaryLens.app/Contents/MacOS/BinaryLens
+# Arch: arm64
+# Object files:
+[  0] linker synthesized
+[  1] /Users/rahulchaudhari/Documents/Personal/Projects/LinkmapAnalyser/.build/screenshot-dd/Build/Intermediates.noindex/BinaryLens.build/Debug/BinaryLens.build/BinaryLens-DebugDylibInstallName-normal-arm64.txt
+[  2] /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib/libPreviewsJITStubExecutor.a(PreviewsJITStubExecutor.o)
+[  3] /Users/rahulchaudhari/Documents/Personal/Projects/LinkmapAnalyser/.build/screenshot-dd/Build/Products/Debug/BinaryLens.app/Contents/MacOS/BinaryLens.debug.dylib
+[  4] /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/lib/libSystem.tbd
+[  5] /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/lib/system/libdyld.tbd
+[  6] /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/lib/system/libmacho.tbd
+[  7] /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/lib/system/libsystem_c.tbd
+[  8] /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/lib/system/libsystem_malloc.tbd
+[  9] /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/usr/lib/system/libsystem_trace.tbd
+# Sections:
+# Address	Size    	Segment	Section
+0x100000888	0x00001C60	__TEXT	__text
+0x1000024E8	0x0000015C	__TEXT	__stubs
+0x100002644	0x00000008	__TEXT	__swift5_entry
+0x100002650	0x00000030	__TEXT	__const
+0x100002680	0x00000239	__TEXT	__cstring
+0x1000028B9	0x00000B4E	__TEXT	__oslogstring
+0x100003407	0x00000016	__TEXT	__debug_dylib
+0x10000341D	0x0000001D	__TEXT	__debug_instlnm
+0x10000343A	0x00000000	__TEXT	__debug_entry
+0x10000343C	0x000000C8	__TEXT	__unwind_info
+0x100003508	0x00000078	__TEXT	__eh_frame
+0x100004000	0x000000F8	__DATA_CONST	__got
+0x100008000	0x00000800	__DATA	__common
+0x100008800	0x00000008	__DATA	__bss
+# Symbols:
+# Address	Size    	File  Name
+0x100000000	0x00000000	[  0] __mh_execute_header
+0x100000000	0x00000000	[  0] ___dso_handle
+0x100000888	0x000004C4	[  2] ___debug_blank_executor_main
+0x100000D4C	0x00000014	[  2] ___os_log_helper_16_2_1_8_34
+0x100000D60	0x00000008	[  2] ___os_log_helper_16_0_0
+0x100000D68	0x000004BC	[  2] _getDebugDylibEntryPoint
+0x100001224	0x00000120	[  2] ___debug_blank_executor_run_user_entry_point
+0x100001344	0x00000004	[  2] ___previews_blank_executor_run_user_entry_point
+0x100001348	0x00000064	[  2] _assertDebugDylibStatus
+0x1000013AC	0x00000548	[  2] _getDebugDylibHandle
+0x1000018F4	0x0000000C	[  2] _debugDylibPseudoDylibInstallName
+0x100001900	0x00000014	[  2] ___os_log_helper_16_0_1_8_0
+0x100001914	0x00000020	[  2] ___os_log_helper_16_2_2_8_34_8_34
+0x100001934	0x00000014	[  2] ___os_log_helper_16_0_1_8_2
+0x100001948	0x00000458	[  2] _lookupMainFuncAddressInDebugDylibMachHeader
+0x100001DA0	0x00000138	[  2] _findDebugDylibMachHeaderAmongLoadedImages
+0x100001ED8	0x00000020	[  2] ___os_log_helper_16_0_2_8_2_8_2
+0x100001EF8	0x00000020	[  2] ___os_log_helper_16_0_2_8_2_4_2
+0x100001F18	0x00000068	[  2] ___debug_dylib_swift_extension_entry_trampoline
+0x100001F80	0x00000014	[  2] ___os_log_helper_16_2_1_8_32
+0x100001F94	0x00000014	[  2] _OUTLINED_FUNCTION_0
+0x100001FA8	0x00000014	[  2] _OUTLINED_FUNCTION_1
+0x100001FBC	0x00000010	[  2] _OUTLINED_FUNCTION_2
+0x100001FCC	0x00000010	[  2] _OUTLINED_FUNCTION_3
+0x100001FDC	0x00000010	[  2] _OUTLINED_FUNCTION_4
+0x100001FEC	0x0000000C	[  2] _OUTLINED_FUNCTION_5
+0x100001FF8	0x0000000C	[  2] _OUTLINED_FUNCTION_6
+0x100002004	0x00000010	[  2] _OUTLINED_FUNCTION_7
+0x100002014	0x0000000C	[  2] _OUTLINED_FUNCTION_8
+0x100002020	0x00000010	[  2] _OUTLINED_FUNCTION_9
+0x100002030	0x00000010	[  2] _OUTLINED_FUNCTION_10
+0x100002040	0x0000000C	[  2] _OUTLINED_FUNCTION_11
+0x10000204C	0x0000000C	[  2] _OUTLINED_FUNCTION_12
+0x100002058	0x0000000C	[  2] _OUTLINED_FUNCTION_13
+0x100002064	0x00000018	[  2] _OUTLINED_FUNCTION_14
+0x10000207C	0x0000000C	[  2] _OUTLINED_FUNCTION_15
+0x100002088	0x0000000C	[  2] _OUTLINED_FUNCTION_16
+0x100002094	0x00000010	[  2] _OUTLINED_FUNCTION_17
+0x1000020A4	0x00000014	[  2] _OUTLINED_FUNCTION_18
+0x1000020B8	0x00000018	[  2] _OUTLINED_FUNCTION_19
+0x1000020D0	0x00000008	[  2] _OUTLINED_FUNCTION_20
+0x1000020D8	0x00000008	[  2] _OUTLINED_FUNCTION_21
+0x1000020E0	0x00000014	[  2] _OUTLINED_FUNCTION_22
+0x1000020F4	0x00000018	[  2] _OUTLINED_FUNCTION_23
+0x10000210C	0x00000014	[  2] _OUTLINED_FUNCTION_24
+0x100002120	0x00000014	[  2] _OUTLINED_FUNCTION_25
+0x100002134	0x00000014	[  2] _OUTLINED_FUNCTION_26
+0x100002148	0x00000014	[  2] _OUTLINED_FUNCTION_27
+0x10000215C	0x00000014	[  2] _OUTLINED_FUNCTION_28
+0x100002170	0x00000014	[  2] _OUTLINED_FUNCTION_29
+0x100002184	0x00000014	[  2] _OUTLINED_FUNCTION_30
+0x100002198	0x0000000C	[  2] _OUTLINED_FUNCTION_31
+0x1000021A4	0x00000010	[  2] _OUTLINED_FUNCTION_32
+0x1000021B4	0x0000000C	[  2] _OUTLINED_FUNCTION_33
+0x1000021C0	0x0000000C	[  2] _OUTLINED_FUNCTION_34
+0x1000021CC	0x0000000C	[  2] _OUTLINED_FUNCTION_35
+0x1000021D8	0x0000000C	[  2] _OUTLINED_FUNCTION_36
+0x1000021E4	0x00000008	[  2] _OUTLINED_FUNCTION_37
+0x1000021EC	0x00000008	[  2] _OUTLINED_FUNCTION_38
+0x1000021F4	0x0000000C	[  2] _OUTLINED_FUNCTION_39
+0x100002200	0x0000000C	[  2] _OUTLINED_FUNCTION_40
+0x10000220C	0x0000000C	[  2] _OUTLINED_FUNCTION_41
+0x100002218	0x0000000C	[  2] _OUTLINED_FUNCTION_42
+0x100002224	0x0000000C	[  2] _OUTLINED_FUNCTION_43
+0x100002230	0x0000000C	[  2] _OUTLINED_FUNCTION_44
+0x10000223C	0x0000000C	[  2] _OUTLINED_FUNCTION_45
+0x100002248	0x0000000C	[  2] _OUTLINED_FUNCTION_46
+0x100002254	0x0000000C	[  2] _OUTLINED_FUNCTION_47
+0x100002260	0x0000000C	[  2] _OUTLINED_FUNCTION_48
+0x10000226C	0x0000000C	[  2] _OUTLINED_FUNCTION_49
+0x100002278	0x0000000C	[  2] _OUTLINED_FUNCTION_50
+0x100002284	0x0000000C	[  2] _OUTLINED_FUNCTION_51
+0x100002290	0x0000000C	[  2] _OUTLINED_FUNCTION_52
+0x10000229C	0x0000000C	[  2] _OUTLINED_FUNCTION_53
+0x1000022A8	0x0000000C	[  2] _OUTLINED_FUNCTION_54
+0x1000022B4	0x0000000C	[  2] _abort_could_not_find_CFRunLoopRun___debug_dylib
+0x1000022C0	0x0000000C	[  2] _abort_normaldylib_expected_but_found_pseudodylib___debug_dylib
+0x1000022CC	0x0000000C	[  2] _abort_pseudodylib_expected_but_found_normal___debug_dylib
+0x1000022D8	0x00000094	[  2] _abort_failed_to_open___debug_dylib
+0x10000236C	0x0000000C	[  2] _abort_could_not_find_entry_point___debug_dylib
+0x100002378	0x0000003C	[  2] _abort_swift_entry_mach_header_not_found___debug_dylib
+0x1000023B4	0x00000040	[  2] _abort_swift_entry_main_entry_point_not_found___debug_dylib
+0x1000023F4	0x0000003C	[  2] _abort_swift_entry_point_address_could_not_be_determined___debug_dylib
+0x100002430	0x0000003C	[  2] _abort_failed_to_find_previews_injection_swift_entry_fetcher___debug_dylib
+0x10000246C	0x0000003C	[  2] _abort_failed_to_get_debug_dylib_handle_for_swift_entry_fetcher___debug_dylib
+0x1000024A8	0x00000040	[  2] _abort_failed_to_lookup_debug_dylib_macho_handle_by_suffix___debug_dylib
+0x1000024E8	0x0000000C	[  7] ___stack_chk_fail.stub
+0x1000024F4	0x0000000C	[  5] __dyld_get_dlopen_image_header.stub
+0x100002500	0x0000000C	[  5] __dyld_get_image_header.stub
+0x10000250C	0x0000000C	[  5] __dyld_get_image_name.stub
+0x100002518	0x0000000C	[  5] __dyld_image_count.stub
+0x100002524	0x0000000C	[  9] __os_log_error_impl.stub
+0x100002530	0x0000000C	[  9] __os_log_impl.stub
+0x10000253C	0x0000000C	[  7] _abort.stub
+0x100002548	0x0000000C	[  8] _calloc.stub
+0x100002554	0x0000000C	[  5] _dlerror.stub
+0x100002560	0x0000000C	[  5] _dlopen.stub
+0x10000256C	0x0000000C	[  5] _dlsym.stub
+0x100002578	0x0000000C	[  7] _exit.stub
+0x100002584	0x0000000C	[  8] _free.stub
+0x100002590	0x0000000C	[  7] _freopen.stub
+0x10000259C	0x0000000C	[  7] _fwrite.stub
+0x1000025A8	0x0000000C	[  7] _getenv.stub
+0x1000025B4	0x0000000C	[  6] _getsectiondata.stub
+0x1000025C0	0x0000000C	[  7] _localtime.stub
+0x1000025CC	0x0000000C	[  7] _memcpy.stub
+0x1000025D8	0x0000000C	[  9] _os_log_create.stub
+0x1000025E4	0x0000000C	[  9] _os_log_type_enabled.stub
+0x1000025F0	0x0000000C	[  7] _printf.stub
+0x1000025FC	0x0000000C	[  7] _snprintf.stub
+0x100002608	0x0000000C	[  7] _strchr.stub
+0x100002614	0x0000000C	[  7] _strcmp.stub
+0x100002620	0x0000000C	[  7] _strlen.stub
+0x10000262C	0x0000000C	[  7] _strncmp.stub
+0x100002638	0x0000000C	[  7] _time.stub
+0x100002644	0x00000008	[  2] l_entry_point
+0x100002650	0x00000008	[  2] 8-byte-literal
+0x100002658	0x00000008	[  2] 8-byte-literal
+0x100002660	0x00000008	[  2] 8-byte-literal
+0x100002668	0x00000008	[  2] 8-byte-literal
+0x100002670	0x00000008	[  2] 8-byte-literal
+0x100002678	0x00000008	[  2] 8-byte-literal
+0x100002680	0x00000020	[  2] literal string: com.apple.Previews.StubExecutor
+0x1000026A0	0x0000001D	[  2] literal string: PreviewsAgentExecutorLibrary
+0x1000026BD	0x0000002F	[  2] literal string: __PREVIEWS_AGENT_STUB_EXECUTOR_STDERR_REDIRECT
+0x1000026EC	0x00000016	[  2] literal string: /tmp/agent-stderr.txt
+0x100002702	0x00000002	[  2] literal string: a
+0x100002704	0x00000013	[  2] literal string: \n================\n
+0x100002717	0x00000020	[  2] literal string: %04d-%02d-%02d %02d:%02d:%02d\n\n
+0x100002737	0x00000027	[  2] literal string: __PREVIEWS_AGENT_SKIP_USER_ENTRY_POINT
+0x10000275E	0x0000000D	[  2] literal string: CFRunLoopRun
+0x10000276B	0x00000015	[  2] literal string: _dyld_is_pseudodylib
+0x100002780	0x00000005	[  2] literal string: ./%s
+0x100002785	0x0000002A	[  2] literal string: __debug_main_executable_dylib_entry_point
+0x1000027AF	0x00000005	[  2] literal string: main
+0x1000027B4	0x00000040	[  2] literal string: __previews_injection_get_debug_dodylib_swift_entry_section_data
+0x1000027F4	0x00000007	[  2] literal string: __TEXT
+0x1000027FB	0x0000000F	[  2] literal string: __swift5_entry
+0x10000280A	0x00000014	[  2] literal string: __PREVIEWS_JIT_LINK
+0x10000281E	0x00000004	[  2] literal string: YES
+0x100002822	0x00000021	[  2] literal string: __PREVIEWS_INTERPOSED_DEBUG_DLIB
+0x100002843	0x00000021	[  2] literal string: __PREVIEWS_EXECUTABLE_DYLIB_NAME
+0x100002864	0x00000029	[  2] literal string: __previews_injection_jit_link_entrypoint
+0x10000288D	0x0000002C	[  2] literal string: __debug_blank_executor_run_user_entry_point
+0x1000028B9	0x00000027	[  2] literal string: Redirecting agent stderr to %{public}s
+0x1000028E0	0x00000055	[  2] literal string: Gave PreviewsInjection a chance to run and it returned, continuing with debug dylib.
+0x100002935	0x0000001E	[  2] literal string: Calling provided entry point.
+0x100002953	0x00000033	[  2] literal string: __debug_blank_executor_run_user_entry_point called
+0x100002986	0x00000046	[  2] literal string: Skipping user entry point in favor of just keeping the process alive.
+0x1000029CC	0x0000001D	[  2] literal string: Failed to find CFRunLoopRun.
+0x1000029E9	0x00000032	[  2] literal string: Keeping the process alive by spinning a run loop.
+0x100002A1B	0x0000002C	[  2] literal string: Calling provided entry point from Previews.
+0x100002A47	0x0000001C	[  2] literal string: Stub executor is JIT linked
+0x100002A63	0x0000001A	[  2] literal string: Debug dylib is interposed
+0x100002A7D	0x00000034	[  2] literal string: Looking up debug dylib by install name '%{public}s'
+0x100002AB1	0x00000035	[  2] literal string: Looking up debug dylib by relative path '%{public}s'
+0x100002AE6	0x0000001E	[  2] literal string: Debug dylib is not interposed
+0x100002B04	0x00000026	[  2] literal string: Opening debug dylib with '%{public}s'
+0x100002B2A	0x00000017	[  2] literal string: Debug dylib handle: %p
+0x100002B41	0x0000001E	[  2] literal string: Looking for main entry point.
+0x100002B5F	0x00000032	[  2] literal string: No debug dylib present, assuming framework agent.
+0x100002B91	0x0000007A	[  2] literal string: Could not find framework agent entry point name '__debug_main_executable_dylib_entry_point'. Falling back to other paths.
+0x100002C0B	0x00000029	[  2] literal string: Looking up entry point name '%{public}s'
+0x100002C34	0x00000035	[  2] literal string: Could not find provided entry point name '%{public}s
+0x100002C69	0x0000002A	[  2] literal string: No entry point found. Checking for alias.
+0x100002C93	0x0000004C	[  2] literal string: No alias entry point found. Falling back to look up entry point name 'main'
+0x100002CDF	0x00000065	[  2] literal string: No entry point found in debug dylib. Falling back to look up entry point name '%{public}s' globally.
+0x100002D44	0x0000002B	[  2] literal string: No entry point found. Checked '%{public}s'
+0x100002D6F	0x0000001C	[  2] literal string: Failed to load '%{public}s'
+0x100002D8B	0x00000028	[  2] literal string: Failed to load '%{public}s': %{public}s
+0x100002DB3	0x00000032	[  2] literal string: Stub Executor: Debug dylib mach header not found.
+0x100002DE5	0x0000004F	[  2] literal string: Stub Executor: Swift entry point not found (entry size: %{public}zu). Failing.
+0x100002E34	0x00000042	[  2] literal string: Stub Executor: Swift entry point address could not be determined.
+0x100002E76	0x00000046	[  2] literal string: Stub Executor: Failed to find Previews injection Swift entry fetcher.
+0x100002EBC	0x00000049	[  2] literal string: Stub Executor: Failed to get debug dylib handle for Swift entry fetcher.
+0x100002F05	0x00000051	[  2] literal string: Stub Executor: Failed to lookup debug dylib MachO handle by suffix '%{public}s'.
+0x100002F56	0x00000048	[  2] literal string: Debug dylib is interposed. Looking for entry trampoline in pseudodylib.
+0x100002F9E	0x00000032	[  2] literal string: Previews injection Swift entry fetcher not found.
+0x100002FD0	0x00000031	[  2] literal string: Received Swift entry section pointer: %{public}p
+0x100003001	0x00000032	[  2] literal string: dyld image header API not available, falling back
+0x100003033	0x00000020	[  2] literal string: dyld image header API available
+0x100003053	0x0000003B	[  2] literal string: Mach header found at %{public}p in dylib handle %{public}p
+0x10000308E	0x0000002D	[  2] literal string: Entry section %{public}p, offset: %{public}x
+0x1000030BB	0x0000004D	[  2] literal string: Swift extension entry trampoline called. Jumping to debug dylib entry point.
+0x100003108	0x0000002A	[  2] literal string: Looking for dylib image with suffix: '%s'
+0x100003132	0x0000001F	[  2] literal string: Could not find debug dylib: %s
+0x100003151	0x0000002B	[  2] literal string: Looking for Previews JIT link entry point.
+0x10000317C	0x00000025	[  2] literal string: Found Previews JIT link entry point.
+0x1000031A1	0x00000031	[  2] literal string: PreviewsInjection request for JIT link returned.
+0x1000031D2	0x00000023	[  2] literal string: No Previews JIT entry point found.
+0x1000031F5	0x00000025	[  2] literal string: Looking up debug dylib relative path
+0x10000321A	0x00000034	[  2] literal string: Found debug dylib relative path string `%{public}s`
+0x10000324E	0x00000026	[  2] literal string: No debug dylib relative path defined.
+0x100003274	0x0000004D	[  2] literal string: Stub executor cannot load text section from binary: (%{public}p, %{public}p)
+0x1000032C1	0x0000004A	[  2] literal string: Size of stub executor text section too large: (%{public}zu > %{public}zu)
+0x10000330B	0x00000028	[  2] literal string: Looking up debug dylib entry point name
+0x100003333	0x00000037	[  2] literal string: Found debug dylib entry point name string `%{public}s`
+0x10000336A	0x00000029	[  2] literal string: No debug dylib entry point name defined.
+0x100003393	0x00000024	[  2] literal string: Looking up debug dylib install name
+0x1000033B7	0x0000002B	[  2] literal string: Found debug dylib install name string `%s`
+0x1000033E2	0x00000025	[  2] literal string: No debug dylib install name defined.
+0x100003407	0x00000000	[  0] section$start$__TEXT$__debug_dylib
+0x100003407	0x00000016	[  0] l<sect-create>__TEXT,__debug_dylib
+0x10000341D	0x00000000	[  0] section$end$__TEXT$__debug_dylib
+0x10000341D	0x00000000	[  0] section$start$__TEXT$__debug_instlnm
+0x10000341D	0x0000001D	[  1] l<sect-create>__TEXT,__debug_instlnm
+0x10000343A	0x00000000	[  0] section$end$__TEXT$__debug_instlnm
+0x10000343A	0x00000000	[  0] section$start$__TEXT$__debug_entry
+0x10000343A	0x00000000	[  0] section$end$__TEXT$__debug_entry
+0x10000343A	0x00000000	[  0] __TEXT,__debug_entry
+0x10000343C	0x000000C8	[  0] compact unwind info
+0x100003508	0x00000014	[  2] CFI
+0x10000351C	0x00000024	[  2] FDE for: _OUTLINED_FUNCTION_14
+0x100003540	0x00000020	[  2] FDE for: _OUTLINED_FUNCTION_19
+0x100003560	0x00000020	[  2] FDE for: _OUTLINED_FUNCTION_23
+0x100004000	0x00000008	[  7] ___stack_chk_fail.got
+0x100004008	0x00000008	[  7] ___stack_chk_guard.got
+0x100004010	0x00000008	[  7] ___stderrp.got
+0x100004018	0x00000008	[  5] __dyld_get_dlopen_image_header.got
+0x100004020	0x00000008	[  5] __dyld_get_image_header.got
+0x100004028	0x00000008	[  5] __dyld_get_image_name.got
+0x100004030	0x00000008	[  5] __dyld_image_count.got
+0x100004038	0x00000008	[  9] __os_log_error_impl.got
+0x100004040	0x00000008	[  9] __os_log_impl.got
+0x100004048	0x00000008	[  7] _abort.got
+0x100004050	0x00000008	[  8] _calloc.got
+0x100004058	0x00000008	[  5] _dlerror.got
+0x100004060	0x00000008	[  5] _dlopen.got
+0x100004068	0x00000008	[  5] _dlsym.got
+0x100004070	0x00000008	[  7] _exit.got
+0x100004078	0x00000008	[  8] _free.got
+0x100004080	0x00000008	[  7] _freopen.got
+0x100004088	0x00000008	[  7] _fwrite.got
+0x100004090	0x00000008	[  7] _getenv.got
+0x100004098	0x00000008	[  6] _getsectiondata.got
+0x1000040A0	0x00000008	[  7] _localtime.got
+0x1000040A8	0x00000008	[  7] _memcpy.got
+0x1000040B0	0x00000008	[  9] _os_log_create.got
+0x1000040B8	0x00000008	[  9] _os_log_type_enabled.got
+0x1000040C0	0x00000008	[  7] _printf.got
+0x1000040C8	0x00000008	[  7] _snprintf.got
+0x1000040D0	0x00000008	[  7] _strchr.got
+0x1000040D8	0x00000008	[  7] _strcmp.got
+0x1000040E0	0x00000008	[  7] _strlen.got
+0x1000040E8	0x00000008	[  7] _strncmp.got
+0x1000040F0	0x00000008	[  7] _time.got
+0x100008000	0x00000008	[  2] _didLoadDylibStringSections
+0x100008008	0x00000008	[  2] __cachedDebugDylibHandle
+0x100008010	0x00000008	[  2] __cachedDebugDylibEntryPoint
+0x100008100	0x000000FA	[  2] _debugDylibEntryPointName
+0x100008200	0x000000FA	[  2] _debugDylibInstallName
+0x100008400	0x00000400	[  2] _debugDylibRelativePath
+0x100008800	0x00000008	[  2] _logger
